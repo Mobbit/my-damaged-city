@@ -9,3 +9,7 @@ progress or decay.
 
 Main component is a webapp to be used on a capable smartphone. It allows to enter
 the location, categorize the kind of damage and upload a photo.
+
+## Prefered technology
+
+Rails 4 beta, JQuery, Backbone.js, PostgreSQL, Heroku hosting, Openstreetmap 
